@@ -1,6 +1,6 @@
 # 🚀 GDG FOSSology ROUND 1
 
-> *"Good technical writing is just as important as good code in the FOSS world."*
+ *"Good technical writing is just as important as good code in the FOSS world."*
 
 Welcome to the **1st Assignment of FOSSology ROUND 1**! 
 
