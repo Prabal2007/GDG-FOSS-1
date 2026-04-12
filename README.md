@@ -35,4 +35,4 @@ Because this assignment is explicitly designed to test **your** technical writin
 
 *Show us your unique voice and your true understanding. Authenticity matters much more than perfection!*
 
-Are you ready? Head over to **`CONTRIBUTING.md`** to begin your journey. Good luck!
+Are you ready? Head over to [CONTRIBUTING.md](https://github.com/AkshajSonar/GDG-FOSS-1/blob/main/CONTRIBUTING.md) to begin your journey. Good luck!
